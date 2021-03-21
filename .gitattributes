@@ -1,0 +1,14 @@
+# Files not to include in .zip/.tar.gz archives
+#
+.git*           export-ignore
+.perltidyrc     export-ignore
+*.md            export-ignore
+
+# Enable substitution to identify releases
+# Replacements in $Format:...$, where ... is described in
+#                        https://git-scm.com/docs/git-log
+#
+#base85  export-subst
+
+*.jpg binary
+

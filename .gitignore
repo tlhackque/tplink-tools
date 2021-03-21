@@ -1,0 +1,11 @@
+*~
+*#
+*.swp
+*.tmp
+*.bak
+*.tdy
+*.tar.gz
+*.orig
+tplink-tools*
+Commitlog
+
